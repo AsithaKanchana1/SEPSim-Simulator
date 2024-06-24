@@ -20,8 +20,13 @@ Watch the video below for a step-by-step guide on how to install SEPSIM Simulato
 [![Watch the video](https://img.youtube.com/vi/4W-A39_9zTo/0.jpg)](https://www.youtube.com/watch?v=4W-A39_9zTo) 
 *Click the image to watch the video.*
 
-### **Download**
+
+
+### **Vertual Box Download**
 You can download Oracle VM Virtual Box [here](https://www.virtualbox.org/wiki/Downloads)
+
+### **Download**
+
 You can download the SEPSIM Simulator [here](Still Not Updated).
 
 ### **Developer Credits:**
