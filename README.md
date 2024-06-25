@@ -27,7 +27,7 @@ You can download Oracle VM Virtual Box [here](https://www.virtualbox.org/wiki/Do
 
 ### **Download**
 
-You can download the SEPSIM Simulator [here](Still Not Updated).
+You can download the SEPSIM Simulator [--here--](https://drive.google.com/drive/folders/1YIyt0mDl7l2RNlagwuC6m_M42P_2Oada?usp=sharing).
 
 ### **Developer Credits:**
 
